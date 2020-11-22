@@ -1,3 +1,16 @@
+# About the Project
+
+Since the dawn of first case of COVID-19 it is important for us to keep track of the Active cases, deaths and Recovered cases.So we can dynamically fetch the data from API
+and present it in a clean Interface.
+
+The frameworks used include ReactJS,ChartJS,MaterialUI,CSS,HTML etc..
+
+Made use of various concepts in Reacts like Hooks,Components,fetching the data using axios, since it is important for a website to fetch data asynchronously that is taken careof.
+
+The necessary packages are installed and corresponding dependencies can be found in *package.json*
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
